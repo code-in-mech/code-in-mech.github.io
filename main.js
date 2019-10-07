@@ -3,6 +3,7 @@ function restart(){
 }
 
 
+let x;
 function start(){
 		x = setInterval(update,100);
 }
